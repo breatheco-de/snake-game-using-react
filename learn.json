@@ -6,6 +6,7 @@
   "slug": "snake-game-react",
   "status": "published",
   "duration": 4,
+  "template_url": "https://github.com/4GeeksAcademy/react-hello",
   "preview": "https://storage.googleapis.com/screenshots-breathecode/cf803822b00439465deae2ec2c6756d0dfbd3085ffb5ab1392777f6ad2bfdad1",
   "translations": ["es", "us"],
   "difficulty": "intermediate",
